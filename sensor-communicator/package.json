@@ -17,7 +17,7 @@
     "passport": "~0.1.15",
     "express-namespace": "~0.1.1",
     "passport-oauth": "~0.1.12",
-    "request": "~2.12.0"
+    "request": "~2.88.2"
   },
   "devDependencies": {},
   "scripts": {
